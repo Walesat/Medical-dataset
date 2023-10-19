@@ -1,6 +1,8 @@
-# Medical-dataset
+#  A Journey through Medical Scholars Insights at the University of Lincoln
 
-# Medical-Datasets
+In the heart of Lincoln, the University's medical students are pioneering groundbreaking research and embracing the ever-evolving world of healthcare. This report chronicles their endeavors and insights, offering a glimpse into the remarkable journey of tomorrow's medical professionals.
+
+As a Data Analyst, I was entrusted with the task of crafting comprehensive reports that not only illuminate the current health state of the medical student but also serve as indispensable tools in shaping effective meedical research strategies. It's important to emphasize that the data employed in these reports is entirely fictional, offering a simulated yet valuable depiction of what insights the University of Lincoln could derive from this report
 
 Using the Medical Students Data, create Pivot Tables displaying the following:
 Average values for the following for Male and Females (Age, BMI, Temperature, Heart Rate, Blood Pressure, and Cholesterol)
